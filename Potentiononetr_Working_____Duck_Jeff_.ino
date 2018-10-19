@@ -1,3 +1,5 @@
+//NicK wUz eAR
+
 int LED1 = 3;
 int LED2 = 4;
 int LED3 = 5;
